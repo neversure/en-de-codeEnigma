@@ -1,7 +1,8 @@
 # en-de-codeEnigma
-Codingame problem
+**Codingame problem**
 
 **Objective:**
+
 During World War II, the Germans were using an encryption code called Enigma – which was basically an encryption machine that encrypted messages for transmission. The Enigma code went many years unbroken. Here's How the basic machine works:
 
 First Caesar shift is applied using an incrementing number:
